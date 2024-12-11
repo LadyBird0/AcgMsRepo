@@ -1,0 +1,9 @@
+{
+	"name": "AcgMsDataFactory2",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0b32fb18-1f2f-4ca7-a364-3374319e5dfc",
+		"tenantId": "84f1e4ea-8554-43e1-8709-f0b8589ea118"
+	}
+}
